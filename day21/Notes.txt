@@ -1,0 +1,4 @@
+
+Each allergen is found in exactly one ingredient. 
+
+Each ingredient contains zero or one allergen. 
